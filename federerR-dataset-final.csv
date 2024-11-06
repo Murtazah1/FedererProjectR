@@ -1,0 +1,513 @@
+﻿ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Contestant,WRank,LRank,Wsets,Lsets,Comment,Outcome,elo_winner,elo_loser
+1,Adelaide,Australian Hardcourt Championships,1/3/2000,International,Outdoor,Hard,2nd Round,3,Enqvist T.,5,65,2,0,Completed,Lose,1500,1500
+1,Adelaide,Australian Hardcourt Championships,1/3/2000,International,Outdoor,Hard,1st Round,3,Knippschild J.,65,87,2,0,Completed,Win,1484,1500
+4,Auckland,Heineken Open,1/10/2000,International,Outdoor,Hard,1st Round,3,Ferrero J.C.,45,61,2,0,Completed,Lose,1500,1500.736307
+6,Melbourne,Australian Open,1/17/2000,Grand Slam,Outdoor,Hard,2nd Round,5,Kroslak J.,62,104,3,0,Completed,Win,1484.702399,1483.32969
+6,Melbourne,Australian Open,1/17/2000,Grand Slam,Outdoor,Hard,3rd Round,5,Clement A.,54,62,3,0,Completed,Lose,1487.299,1500.639183
+6,Melbourne,Australian Open,1/17/2000,Grand Slam,Outdoor,Hard,1st Round,5,Chang M.,62,38,3,0,Completed,Win,1484.025147,1550.58556
+8,Marseille,Marseille Open,2/7/2000,International,Indoor,Hard,Semifinals,3,Santoro F.,67,38,2,0,Completed,Win,1503.05341,1555.018173
+8,Marseille,Marseille Open,2/7/2000,International,Indoor,Hard,The Final,3,Rosset M.,77,67,2,1,Completed,Lose,1517.849673,1521.42879
+8,Marseille,Marseille Open,2/7/2000,International,Indoor,Hard,Quarterfinals,3,Ljubicic I.,67,69,2,1,Completed,Win,1505.263971,1520.018565
+8,Marseille,Marseille Open,2/7/2000,International,Indoor,Hard,2nd Round,3,Johansson T.,67,41,2,0,Completed,Win,1521.943037,1500.736307
+12,London,AXA Cup,2/21/2000,International Gold,Indoor,Hard,1st Round,3,Kiefer N.,66,4,2,0,Completed,Win,1550.676756,1641.871793
+12,London,AXA Cup,2/21/2000,International Gold,Indoor,Hard,Quarterfinals,3,Rosset M.,72,66,2,1,Completed,Lose,1627.187768,1570.782582
+14,Copenhagen,Copenhagen Open,2/28/2000,International,Indoor,Hard,2nd Round,3,Jonsson F.,58,121,2,0,Completed,Win,1570.625269,1483.958174
+14,Copenhagen,Copenhagen Open,2/28/2000,International,Indoor,Hard,1st Round,3,Dewulf F.,58,234,2,1,Completed,Win,1582.714874,1498.457281
+14,Copenhagen,Copenhagen Open,2/28/2000,International,Indoor,Hard,Semifinals,3,Larsson M.,48,58,2,0,Completed,Lose,1590.439315,1594.908989
+14,Copenhagen,Copenhagen Open,2/28/2000,International,Indoor,Hard,Quarterfinals,3,Pozzi G.,58,83,2,1,Completed,Win,1578.703164,1509.530846
+20,Miami,Ericsson Open,3/23/2000,Masters,Outdoor,Hard,2nd Round,3,Zabaleta M.,25,53,2,0,Completed,Lose,1499.726707,1591.559094
+20,Miami,Ericsson Open,3/23/2000,Masters,Outdoor,Hard,1st Round,3,Gimelstob J.,53,99,2,0,Completed,Win,1571.425863,1501.384249
+24,Monte Carlo,Monte Carlo Masters,4/17/2000,Masters,Outdoor,Clay,1st Round,3,Novak J.,37,49,2,1,Completed,Lose,1487.944591,1584.243325
+25,Barcelona,Open Seat Godo,4/24/2000,International Gold,Outdoor,Clay,1st Round,3,Bruguera S.,249,51,2,0,Completed,Lose,1467.952508,1563.918783
+29,Rome,Rome TMS,5/8/2000,Masters,Outdoor,Clay,1st Round,3,Medvedev A.,25,51,2,1,Completed,Lose,1483.988701,1543.608437
+30,Hamburg,Hamburg TMS,5/15/2000,Masters,Outdoor,Clay,1st Round,3,Pavel A.,70,50,2,0,Completed,Lose,1538.375323,1524.889482
+31,St. Polten,Internationaler Raiffeisen Grand Prix,5/22/2000,International,Outdoor,Clay,1st Round,3,Hantschk M.,94,54,2,0,Completed,Lose,1500.351447,1509.510216
+32,Paris,French Open,5/29/2000,Grand Slam,Outdoor,Clay,2nd Round,5,Gambill J.M.,54,69,3,0,Completed,Win,1493.088537,1513.04024
+32,Paris,French Open,5/29/2000,Grand Slam,Outdoor,Clay,4th Round,5,Corretja A.,10,54,3,0,Completed,Lose,1648.485181,1510.006338
+32,Paris,French Open,5/29/2000,Grand Slam,Outdoor,Clay,1st Round,5,Arthurs W.,54,106,3,1,Completed,Win,1516.843751,1442.037604
+33,Halle,Gerry Weber Open,6/12/2000,International,Outdoor,Grass,2nd Round,3,Larsson M.,38,49,2,0,Completed,Win,1529.451066,1576.693611
+33,Halle,Gerry Weber Open,6/12/2000,International,Outdoor,Grass,1st Round,3,Clement A.,38,57,2,0,Completed,Win,1547.613355,1476.225214
+33,Halle,Gerry Weber Open,6/12/2000,International,Outdoor,Grass,Quarterfinals,3,Chang M.,28,38,2,0,Completed,Lose,1556.891518,1560.371307
+35,Nottingham,Nottingham Open,6/19/2000,International,Outdoor,Grass,1st Round,3,Fromberg R.,71,35,2,0,Completed,Lose,1513.214465,1544.211062
+37,London,Wimbledon,6/26/2000,Grand Slam,Outdoor,Grass,1st Round,5,Kafelnikov Y.,5,35,3,0,Completed,Lose,1580.284781,1526.787391
+39,Gstaad,Gstaad Open,7/10/2000,International,Outdoor,Clay,1st Round,3,Corretja A.,10,39,2,1,Completed,Lose,1706.131418,1513.23175
+47,Toronto,Toronto TMS,7/31/2000,Masters,Outdoor,Hard,1st Round,3,Hewitt L.,10,38,2,1,Completed,Lose,1715.387412,1505.302385
+48,Cincinnati,Cincinnati TMS,8/7/2000,Masters,Outdoor,Hard,1st Round,3,Clavet F.,43,39,2,0,Completed,Lose,1570.352916,1497.948251
+49,Indianapolis,RCA Championships,8/14/2000,International Gold,Outdoor,Hard,1st Round,3,Sekulov J.,191,40,2,0,Completed,Lose,1424.874284,1485.235164
+52,New York,US Open,8/28/2000,Grand Slam,Outdoor,Hard,3rd Round,5,Ferrero J.C.,12,40,3,1,Completed,Lose,1624.759326,1482.898756
+52,New York,US Open,8/28/2000,Grand Slam,Outdoor,Hard,1st Round,5,Wessels P.,40,89,2,2,Retired,Win,1473.091311,1556.420545
+58,Vienna,CA Tennis Trophy,10/9/2000,International Gold,Indoor,Hard,1st Round,3,Norman M.,31,4,2,1,Completed,Win,1492.856837,1748.523479
+58,Vienna,CA Tennis Trophy,10/9/2000,International Gold,Indoor,Hard,Semifinals,3,Henman T.,10,31,2,1,Completed,Lose,1705.918754,1518.88311
+58,Vienna,CA Tennis Trophy,10/9/2000,International Gold,Indoor,Hard,Quarterfinals,3,Krajicek R.,31,20,2,0,Completed,Win,1510.750698,1671.902403
+58,Vienna,CA Tennis Trophy,10/9/2000,International Gold,Indoor,Hard,2nd Round,3,Mirnyi M.,31,43,2,0,Completed,Win,1533.681932,1554.425343
+61,Basel,Swiss Indoors,10/23/2000,International,Indoor,Carpet,Semifinals,3,Hewitt L.,34,9,2,1,Completed,Win,1550.636068,1757.151721
+61,Basel,Swiss Indoors,10/23/2000,International,Indoor,Carpet,Quarterfinals,3,Thomann N.,34,185,2,0,Completed,Win,1593.251238,1504.969715
+61,Basel,Swiss Indoors,10/23/2000,International,Indoor,Carpet,The Final,5,Enqvist T.,6,34,3,2,Completed,Lose,1748.652277,1605.271017
+63,Stuttgart,Stuttgart TMS,10/30/2000,Masters,Indoor,Hard,2nd Round,3,Kafelnikov Y.,5,25,2,0,Completed,Lose,1657.06325,1611.981886
+63,Stuttgart,Stuttgart TMS,10/30/2000,Masters,Indoor,Hard,1st Round,3,Gambill J.M.,25,27,1,0,Retired,Win,1598.046386,1604.814635
+64,Lyon,Grand Prix de Lyon,11/6/2000,International,Indoor,Carpet,1st Round,3,Escude N.,24,38,2,0,Completed,Win,1614.358036,1562.051853
+64,Lyon,Grand Prix de Lyon,11/6/2000,International,Indoor,Carpet,2nd Round,3,Kucera K.,74,24,2,1,Completed,Lose,1571.80666,1627.967282
+66,Paris,BNP Paribas,11/13/2000,Masters,Indoor,Carpet,1st Round,3,Hrbaty D.,19,24,2,1,Completed,Lose,1620.648255,1609.403283
+68,Stockholm,Stockholm Open,11/20/2000,International,Indoor,Hard,2nd Round,3,Vinciguerra A.,55,29,2,0,Completed,Lose,1544.21594,1593.920952
+68,Stockholm,Stockholm Open,11/20/2000,International,Indoor,Hard,1st Round,3,Youzhny M.,29,110,2,1,Completed,Win,1575.647441,1487.711002
+5,Sydney,adidas International,1/7/2002,International,Outdoor,Hard,1st Round,3,Robredo T.,13,34,2,0,Completed,Win,1587.682132,1473.657541
+5,Sydney,adidas International,1/7/2002,International,Outdoor,Hard,Semifinals,3,Roddick A.,13,15,2,0,Completed,Win,1627.782113,1554.164725
+5,Sydney,adidas International,1/7/2002,International,Outdoor,Hard,The Final,3,Chela J.I.,13,67,2,0,Completed,Win,1640.441748,1532.421725
+6,Melbourne,Australian Open,1/14/2002,Grand Slam,Outdoor,Hard,2nd Round,5,Savolt A.,12,93,3,0,Completed,Win,1651.621561,1459.954153
+6,Melbourne,Australian Open,1/14/2002,Grand Slam,Outdoor,Hard,4th Round,5,Haas T.,9,12,3,2,Completed,Lose,1603.248659,1659.593311
+6,Melbourne,Australian Open,1/14/2002,Grand Slam,Outdoor,Hard,3rd Round,5,Schuettler R.,12,41,3,0,Completed,Win,1641.021054,1568.31149
+6,Melbourne,Australian Open,1/14/2002,Grand Slam,Outdoor,Hard,1st Round,5,Chang M.,12,94,3,0,Completed,Win,1653.720696,1628.919886
+7,Milan,Milan Indoors,1/28/2002,International,Indoor,Carpet,2nd Round,3,Davydenko N.,13,84,2,1,Completed,Win,1668.580512,1507.900506
+7,Milan,Milan Indoors,1/28/2002,International,Indoor,Carpet,The Final,3,Sanguinetti D.,87,13,2,1,Completed,Lose,1524.745972,1677.666934
+7,Milan,Milan Indoors,1/28/2002,International,Indoor,Carpet,Quarterfinals,3,Sargsian S.,13,74,2,1,Completed,Win,1655.046741,1442.298234
+7,Milan,Milan Indoors,1/28/2002,International,Indoor,Carpet,Semifinals,3,Rusedski G.,13,30,2,0,Completed,Win,1662.314393,1664.425838
+13,Rotterdam,ABN AMRO World Tennis Tournament,2/18/2002,International Gold,Indoor,Hard,1st Round,3,van Lottum J.,13,124,2,0,Completed,Win,1686.88798,1372.961121
+13,Rotterdam,ABN AMRO World Tennis Tournament,2/18/2002,International Gold,Indoor,Hard,2nd Round,3,Enqvist T.,13,20,0,0,Walkover,Win,1691.399595,1744.342593
+13,Rotterdam,ABN AMRO World Tennis Tournament,2/18/2002,International Gold,Indoor,Hard,Quarterfinals,3,Escude N.,22,13,2,1,Completed,Lose,1664.390357,1709.819013
+15,Dubai,Dubai Championships,2/25/2002,International Gold,Outdoor,Hard,2nd Round,3,Schuettler R.,40,14,2,0,Completed,Lose,1581.276079,1691.738787
+15,Dubai,Dubai Championships,2/25/2002,International Gold,Outdoor,Hard,1st Round,3,Voinea A.,14,76,2,0,Completed,Win,1670.816538,1440.702983
+19,Indian Wells,Pacific Life Open,3/11/2002,Masters,Outdoor,Hard,2nd Round,3,Koubek S.,14,51,2,0,Completed,Win,1677.538053,1461.229265
+19,Indian Wells,Pacific Life Open,3/11/2002,Masters,Outdoor,Hard,3rd Round,3,Enqvist T.,22,14,2,0,Completed,Lose,1718.56093,1684.691229
+19,Indian Wells,Pacific Life Open,3/11/2002,Masters,Outdoor,Hard,1st Round,3,Malisse X.,14,33,2,1,Completed,Win,1670.246064,1592.124325
+20,Miami,NASDAQ-100 Open,3/18/2002,Masters,Outdoor,Hard,The Final,5,Agassi A.,10,14,3,1,Completed,Lose,1767.382293,1689.299838
+20,Miami,NASDAQ-100 Open,3/18/2002,Masters,Outdoor,Hard,Semifinals,3,Hewitt L.,14,1,2,0,Completed,Win,1676.836327,1852.038186
+20,Miami,NASDAQ-100 Open,3/18/2002,Masters,Outdoor,Hard,4th Round,3,Henman T.,14,6,1,0,Retired,Win,1711.882484,1827.236594
+20,Miami,NASDAQ-100 Open,3/18/2002,Masters,Outdoor,Hard,2nd Round,3,Morrison J.,14,139,2,0,Completed,Win,1733.007779,1491.920841
+23,Monte Carlo,Monte Carlo Masters,4/15/2002,Masters,Outdoor,Clay,2nd Round,3,Nalbandian D.,35,11,2,0,Completed,Lose,1577.972616,1739.400033
+23,Monte Carlo,Monte Carlo Masters,4/15/2002,Masters,Outdoor,Clay,1st Round,3,Zabaleta M.,11,69,2,0,Completed,Win,1716.458488,1448.907759
+28,Rome,Rome TMS,5/6/2002,Masters,Outdoor,Clay,1st Round,3,Gaudenzi A.,58,11,2,0,Completed,Lose,1425.353511,1722.106938
+29,Hamburg,Hamburg TMS,5/13/2002,Masters,Outdoor,Clay,2nd Round,3,Ulihrach B.,14,42,2,0,Completed,Win,1695.015445,1512.064461
+29,Hamburg,Hamburg TMS,5/13/2002,Masters,Outdoor,Clay,The Final,5,Safin M.,14,5,3,0,Completed,Win,1703.291303,1771.07599
+29,Hamburg,Hamburg TMS,5/13/2002,Masters,Outdoor,Clay,Semifinals,3,Mirnyi M.,14,39,2,0,Completed,Win,1745.787588,1562.385643
+31,Paris,French Open,5/27/2002,Grand Slam,Outdoor,Clay,1st Round,5,Arazi H.,45,8,3,0,Completed,Lose,1498.080112,1762.771145
+32,Halle,Gerry Weber Open,6/10/2002,International,Outdoor,Grass,2nd Round,3,Prinosil D.,10,206,2,0,Completed,Win,1736.496575,1610.46008
+32,Halle,Gerry Weber Open,6/10/2002,International,Outdoor,Grass,1st Round,3,Dreekmann H.,10,2000,2,1,Completed,Win,1746.934259,1500
+32,Halle,Gerry Weber Open,6/10/2002,International,Outdoor,Grass,Semifinals,3,Kiefer N.,66,10,2,1,Completed,Lose,1563.866665,1753.156069
+32,Halle,Gerry Weber Open,6/10/2002,International,Outdoor,Grass,Quarterfinals,3,Youzhny M.,10,67,2,0,Completed,Win,1729.210039,1528.578135
+35,'s-Hertogenbosch,Ordina Open,6/17/2002,International,Outdoor,Grass,1st Round,3,Krajicek R.,9,2000,2,0,Completed,Win,1736.876911,1648.441143
+35,'s-Hertogenbosch,Ordina Open,6/17/2002,International,Outdoor,Grass,Quarterfinals,3,Schalken S.,31,9,2,1,Completed,Lose,1602.604978,1753.755898
+36,London,Wimbledon,6/24/2002,Grand Slam,Outdoor,Grass,1st Round,5,Ancic M.,154,9,3,0,Completed,Lose,1463.419045,1731.203405
+38,Gstaad,Gstaad Open,7/8/2002,International,Outdoor,Clay,2nd Round,3,Stepanek R.,110,11,2,1,Completed,Lose,1550.096147,1704.845603
+38,Gstaad,Gstaad Open,7/8/2002,International,Outdoor,Clay,1st Round,3,Arazi H.,11,46,2,0,Completed,Win,1682.155773,1496.40858
+46,Toronto,Toronto TMS,7/29/2002,Masters,Outdoor,Hard,1st Round,3,Canas G.,19,10,2,0,Completed,Lose,1727.037936,1690.333256
+47,Cincinnati,Cincinnati TMS,8/5/2002,Masters,Outdoor,Hard,1st Round,3,Ljubicic I.,34,14,2,1,Completed,Lose,1535.440821,1676.017309
+50,Long Island,TD Waterhouse Cup,8/19/2002,International,Outdoor,Hard,2nd Round,3,Massu N.,65,13,2,1,Completed,Lose,1599.413821,1653.875102
+51,New York,US Open,8/26/2002,Grand Slam,Outdoor,Hard,2nd Round,5,Chang M.,13,132,3,0,Completed,Win,1635.387409,1508.322178
+51,New York,US Open,8/26/2002,Grand Slam,Outdoor,Hard,4th Round,5,Mirnyi M.,34,13,3,0,Completed,Lose,1533.305674,1645.783487
+51,New York,US Open,8/26/2002,Grand Slam,Outdoor,Hard,3rd Round,5,Malisse X.,13,19,3,1,Completed,Win,1624.777372,1629.314883
+57,Moscow,Kremlin Cup,9/30/2002,International,Indoor,Carpet,2nd Round,3,Nieminen J.,13,35,2,0,Completed,Win,1650.61791,1576.117787
+57,Moscow,Kremlin Cup,9/30/2002,International,Indoor,Carpet,1st Round,3,Golovanov D.,13,167,2,0,Completed,Win,1663.238686,1470.627044
+57,Moscow,Kremlin Cup,9/30/2002,International,Indoor,Carpet,Quarterfinals,3,Safin M.,4,13,2,0,Completed,Lose,1725.270577,1671.177944
+60,Vienna,CA Tennis Trophy,10/7/2002,International Gold,Indoor,Hard,1st Round,3,Krajan Z.,13,115,2,0,Completed,Win,1657.649068,1477.365068
+60,Vienna,CA Tennis Trophy,10/7/2002,International Gold,Indoor,Hard,2nd Round,3,Robredo T.,13,36,2,1,Completed,Win,1666.01947,1609.598116
+60,Vienna,CA Tennis Trophy,10/7/2002,International Gold,Indoor,Hard,Semifinals,3,Moya C.,13,9,2,0,Completed,Win,1689.933275,1788.495391
+61,Madrid,Madrid Masters,10/14/2002,Masters,Indoor,Hard,Quarterfinals,3,Santoro F.,50,7,2,0,Completed,Lose,1562.769814,1735.28038
+61,Madrid,Madrid Masters,10/14/2002,Masters,Indoor,Hard,2nd Round,3,Rios M.,7,25,2,0,Completed,Win,1711.930298,1648.48426
+62,Basel,Swiss Indoors,10/21/2002,International,Indoor,Carpet,2nd Round,3,Waske A.,8,143,2,0,Completed,Win,1725.04055,1502.154306
+62,Basel,Swiss Indoors,10/21/2002,International,Indoor,Carpet,1st Round,3,Verkerk M.,8,92,2,0,Completed,Win,1731.985632,1529.297646
+62,Basel,Swiss Indoors,10/21/2002,International,Indoor,Carpet,Quarterfinals,3,Roddick A.,8,12,2,0,Completed,Win,1739.583714,1734.182608
+62,Basel,Swiss Indoors,10/21/2002,International,Indoor,Carpet,Semifinals,3,Nalbandian D.,18,8,2,1,Completed,Lose,1638.709032,1755.335004
+65,Paris,BNP Paribas,10/28/2002,Masters,Indoor,Carpet,3rd Round,3,Haas T.,8,7,2,0,Completed,Win,1734.15721,1677.156221
+65,Paris,BNP Paribas,10/28/2002,Masters,Indoor,Carpet,Quarterfinals,3,Hewitt L.,1,8,2,0,Completed,Lose,1810.830627,1747.555519
+65,Paris,BNP Paribas,10/28/2002,Masters,Indoor,Carpet,2nd Round,3,Malisse X.,8,26,2,0,Completed,Win,1734.437651,1600.32
+66,Shanghai,Masters Cup,11/11/2002,Masters Cup,Indoor,Hard,Semifinals,3,Hewitt L.,1,6,2,1,Completed,Lose,1837.538934,1744.550843
+66,Shanghai,Masters Cup,11/11/2002,Masters Cup,Indoor,Hard,Round Robin,3,Johansson T.,6,14,2,0,Completed,Win,1732.733702,1581.147277
+66,Shanghai,Masters Cup,11/11/2002,Masters Cup,Indoor,Hard,Round Robin,3,Ferrero J.C.,6,4,2,0,Completed,Win,1757.874708,1766.845939
+3,Doha,Qatar Exxon Mobil Open,12/31/2002,International,Outdoor,Hard,1st Round,3,Stoliarov A.,6,139,2,1,Completed,Win,1774.287757,1452.933261
+3,Doha,Qatar Exxon Mobil Open,1/1/2003,International,Outdoor,Hard,2nd Round,3,Kratochvil M.,6,69,2,0,Completed,Win,1778.636196,1483.840423
+3,Doha,Qatar Exxon Mobil Open,1/2/2003,International,Outdoor,Hard,Quarterfinals,3,Gambill J.M.,42,6,2,0,Completed,Lose,1622.962402,1783.591716
+5,Sydney,adidas International,1/7/2003,International,Outdoor,Hard,1st Round,3,Squillari F.,81,6,2,0,Completed,Lose,1535.185334,1760.680036
+6,Melbourne,Australian Open,1/14/2003,Grand Slam,Outdoor,Hard,1st Round,5,Saretta F.,6,83,3,0,Completed,Win,1735.543815,1475.940708
+6,Melbourne,Australian Open,1/16/2003,Grand Slam,Outdoor,Hard,2nd Round,5,Burgsmuller L.,6,76,3,0,Completed,Win,1741.408227,1461.278548
+6,Melbourne,Australian Open,1/18/2003,Grand Slam,Outdoor,Hard,3rd Round,5,Vinciguerra A.,6,145,3,0,Completed,Win,1746.727716,1513.215395
+6,Melbourne,Australian Open,1/20/2003,Grand Slam,Outdoor,Hard,4th Round,5,Nalbandian D.,12,6,3,2,Completed,Lose,1683.193648,1753.345937
+8,Marseille,Open 13,2/12/2003,International,Indoor,Hard,1st Round,3,Ljubicic I.,6,52,1,0,Retired,Win,1734.158504,1568.161303
+8,Marseille,Open 13,2/14/2003,International,Indoor,Hard,Quarterfinals,3,Sluiter R.,6,78,2,1,Completed,Win,1753.994063,1542.170151
+8,Marseille,Open 13,2/16/2003,International,Indoor,Hard,The Final,3,Bjorkman J.,6,86,2,0,Completed,Win,1774.002903,1659.832535
+13,Rotterdam,ABN AMRO World Tennis Tournament,2/19/2003,International Gold,Indoor,Hard,1st Round,3,Enqvist T.,5,71,2,1,Completed,Win,1784.926581,1566.715379
+13,Rotterdam,ABN AMRO World Tennis Tournament,2/20/2003,International Gold,Indoor,Hard,2nd Round,3,Santoro F.,5,32,2,0,Completed,Win,1792.019117,1602.720875
+13,Rotterdam,ABN AMRO World Tennis Tournament,2/21/2003,International Gold,Indoor,Hard,Quarterfinals,3,Schalken S.,5,19,2,0,Completed,Win,1800.07278,1650.538916
+13,Rotterdam,ABN AMRO World Tennis Tournament,2/22/2003,International Gold,Indoor,Hard,Semifinals,3,Mirnyi M.,46,5,2,1,Completed,Lose,1575.598873,1809.582384
+16,Dubai ,Dubai Championships,2/26/2003,International Gold,Outdoor,Hard,1st Round,3,Labadze I.,5,103,2,0,Completed,Win,1784.186378,1434.717191
+16,Dubai ,Dubai Championships,2/27/2003,International Gold,Outdoor,Hard,2nd Round,3,Abel M.,5,217,2,0,Completed,Win,1787.961715,1485.363935
+16,Dubai ,Dubai Championships,3/1/2003,International Gold,Outdoor,Hard,Semifinals,3,Ljubicic I.,5,60,2,0,Completed,Win,1798.47033,1606.532402
+19,Indian Wells,Pacific Life Open,3/11/2003,Masters,Outdoor,Hard,1st Round,3,Mantilla F.,4,46,1,1,Retired,Win,1818.355816,1676.942712
+19,Indian Wells,Pacific Life Open,3/12/2003,Masters,Outdoor,Hard,2nd Round,3,Kuerten G.,24,4,2,0,Completed,Lose,1760.673633,1828.18079
+20,Miami,NASDAQ-100 Open,3/22/2003,Masters,Outdoor,Hard,2nd Round,3,Horna L.,4,82,2,0,Completed,Win,1809.110511,1494.848406
+20,Miami,NASDAQ-100 Open,3/25/2003,Masters,Outdoor,Hard,3rd Round,3,Chela J.I.,4,33,2,1,Completed,Win,1823.477752,1619.05971
+20,Miami,NASDAQ-100 Open,3/28/2003,Masters,Outdoor,Hard,Quarterfinals,3,Costa A.,9,4,2,1,Completed,Lose,1635.710986,1831.018283
+26,Munich,BMW Open,5/2/2003,International,Outdoor,Clay,Quarterfinals,3,Youzhny M.,5,30,2,0,Completed,Win,1815.02594,1652.74572
+26,Munich,BMW Open,5/3/2003,International,Outdoor,Clay,Semifinals,3,Koubek S.,5,63,2,0,Completed,Win,1824.052548,1517.617532
+28,Rome,Telecom Italia Masters Roma,5/7/2003,Masters,Outdoor,Clay,2nd Round,3,Zabaleta M.,5,39,2,0,Completed,Win,1842.133179,1583.911211
+28,Rome,Telecom Italia Masters Roma,5/10/2003,Masters,Outdoor,Clay,Semifinals,3,Ferrero J.C.,5,3,1,0,Retired,Win,1862.909235,1873.194824
+28,Rome,Telecom Italia Masters Roma,5/11/2003,Masters,Outdoor,Clay,The Final,5,Mantilla F.,47,5,3,0,Completed,Lose,1727.529888,1879.382765
+29,Hamburg,Hamburg TMS,5/14/2003,Masters,Outdoor,Clay,2nd Round,3,Sargsian S.,5,72,2,0,Completed,Win,1862.712997,1551.674709
+29,Hamburg,Hamburg TMS,5/15/2003,Masters,Outdoor,Clay,3rd Round,3,Philippoussis M.,67,5,2,1,Completed,Lose,1698.412672,1867.28944
+31,Paris,French Open,5/26/2003,Grand Slam,Outdoor,Clay,1st Round,5,Horna L.,88,5,3,0,Completed,Lose,1498.746346,1844.072019
+32,Halle,Gerry Weber Open,6/10/2003,International,Outdoor,Grass,1st Round,3,Sargsian S.,5,61,2,0,Completed,Win,1815.927509,1537.367924
+32,Halle,Gerry Weber Open,6/12/2003,International,Outdoor,Grass,2nd Round,3,Vicente F.,5,62,2,1,Completed,Win,1821.287205,1586.42375
+32,Halle,Gerry Weber Open,6/14/2003,International,Outdoor,Grass,Semifinals,3,Youzhny M.,5,29,2,1,Completed,Win,1836.044144,1669.9523
+36,London,Wimbledon,6/23/2003,Grand Slam,Outdoor,Grass,1st Round,5,Lee H.T.,5,55,3,0,Completed,Win,1851.155802,1548.435851
+36,London,Wimbledon,6/27/2003,Grand Slam,Outdoor,Grass,3rd Round,5,Fish M.,5,45,3,1,Completed,Win,1859.614045,1650.823107
+38,Gstaad,Allianz Suisse Open,7/8/2003,International,Outdoor,Clay,1st Round,3,Lopez M.,3,190,2,1,Completed,Win,1906.520924,1498.517379
+38,Gstaad,Allianz Suisse Open,7/12/2003,International,Outdoor,Clay,Semifinals,3,Gaudio G.,3,27,2,0,Completed,Win,1916.063611,1726.088189
+38,Gstaad,Allianz Suisse Open,7/13/2003,International,Outdoor,Clay,The Final,5,Novak J.,10,3,3,2,Completed,Lose,1698.64744,1924.093804
+48,Montreal,Montreal TMS,8/5/2003,Masters,Outdoor,Hard,1st Round,3,Gaudio G.,3,28,2,1,Completed,Win,1898.959082,1691.395091
+48,Montreal,Montreal TMS,8/8/2003,Masters,Outdoor,Hard,Quarterfinals,3,Mirnyi M.,3,32,2,0,Completed,Win,1923.919438,1660.019334
+48,Montreal,Montreal TMS,8/9/2003,Masters,Outdoor,Hard,Semifinals,3,Roddick A.,7,3,2,1,Completed,Lose,1891.90029,1929.666302
+49,Cincinnati,Western & Southern Financial Group Masters,8/12/2003,Masters,Outdoor,Hard,1st Round,3,Draper S.,2,114,2,1,Completed,Win,1911.933931,1502.388063
+49,Cincinnati,Western & Southern Financial Group Masters,8/13/2003,Masters,Outdoor,Hard,2nd Round,3,Nalbandian D.,14,2,2,0,Completed,Lose,1715.120846,1914.700928
+51,New York,US Open,8/27/2003,Grand Slam,Outdoor,Hard,1st Round,5,Acasuso J.,2,75,2,1,Retired,Win,1890.403155,1481.288268
+51,New York,US Open,8/29/2003,Grand Slam,Outdoor,Hard,2nd Round,5,Lisnard J.R.,2,94,3,0,Completed,Win,1893.17643,1535.729298
+51,New York,US Open,9/1/2003,Grand Slam,Outdoor,Hard,3rd Round,5,Blake J.,2,35,3,0,Completed,Win,1896.801504,1732.747682
+51,New York,US Open,9/4/2003,Grand Slam,Outdoor,Hard,4th Round,5,Nalbandian D.,13,2,3,1,Completed,Lose,1772.002184,1905.762097
+61,Vienna ,CA Tennis Trophy,10/7/2003,International Gold,Indoor,Hard,1st Round,3,Ferrer D.,3,75,2,0,Completed,Win,1883.889539,1569.615224
+62,Madrid,Madrid Masters,10/15/2003,Masters,Indoor,Hard,2nd Round,3,Corretja A.,3,127,2,0,Completed,Win,1905.82205,1481.354274
+62,Madrid,Madrid Masters,10/17/2003,Masters,Indoor,Hard,Quarterfinals,3,Lopez F.,3,35,2,1,Completed,Win,1915.849688,1704.399066
+62,Madrid,Madrid Masters,10/18/2003,Masters,Indoor,Hard,Semifinals,3,Ferrero J.C.,1,3,2,1,Completed,Lose,1890.891514,1923.159391
+63,Basel,Swiss Indoors,10/21/2003,International,Indoor,Carpet,1st Round,3,Rosset M.,3,117,2,0,Completed,Win,1905.677659,1527.367112
+63,Basel,Swiss Indoors,10/23/2003,International,Indoor,Carpet,2nd Round,3,Ljubicic I.,47,3,2,1,Completed,Lose,1626.463253,1908.934241
+66,Paris,BNP Paribas,10/29/2003,Masters,Indoor,Carpet,2nd Round,3,Ascione T.,3,106,2,0,Completed,Win,1882.194222,1480.25073
+66,Paris,BNP Paribas,10/31/2003,Masters,Indoor,Carpet,Quarterfinals,3,Henman T.,31,3,2,0,Completed,Lose,1771.670094,1889.619203
+67,Houston,Masters Cup,11/11/2003,Masters Cup,Outdoor,Hard,Round Robin,3,Agassi A.,3,5,2,1,Completed,Win,1868.386925,1879.323941
+67,Houston,Masters Cup,11/12/2003,Masters Cup,Outdoor,Hard,Round Robin,3,Nalbandian D.,3,8,2,0,Completed,Win,1884.890427,1854.425213
+61,Vienna ,CA Tennis Trophy,11/12/2003,International Gold,Indoor,Hard,The Final,5,Moya C.,3,7,3,0,Completed,Win,1899.491037,1780.070231
+67,Houston,Masters Cup,11/14/2003,Masters Cup,Outdoor,Hard,Round Robin,3,Ferrero J.C.,3,2,2,0,Completed,Win,1910.198316,1881.19453
+67,Houston,Masters Cup,11/16/2003,Masters Cup,Outdoor,Hard,Semifinals,3,Roddick A.,3,1,2,0,Completed,Win,1924.865737,1950.848324
+67,Houston,Masters Cup,11/17/2003,Masters Cup,Outdoor,Hard,The Final,5,Agassi A.,3,5,3,0,Completed,Win,1942.060053,1907.846771
+6,Melbourne,Australian Open,1/20/2004,Grand Slam,Outdoor,Hard,1st Round,5,Bogomolov A.,2,117,3,0,Completed,Win,1956.489547,1505.300597
+6,Melbourne,Australian Open,1/22/2004,Grand Slam,Outdoor,Hard,2nd Round,5,Morrison J.,2,156,3,0,Completed,Win,1958.707641,1493.289079
+6,Melbourne,Australian Open,1/24/2004,Grand Slam,Outdoor,Hard,3rd Round,5,Reid T.,2,148,3,0,Completed,Win,1960.762491,1561.633186
+6,Melbourne,Australian Open,1/26/2004,Grand Slam,Outdoor,Hard,4th Round,5,Hewitt L.,2,11,3,1,Completed,Win,1963.684865,1862.292727
+6,Melbourne,Australian Open,1/28/2004,Grand Slam,Outdoor,Hard,Quarterfinals,5,Nalbandian D.,2,8,3,1,Completed,Win,1975.143772,1851.873001
+6,Melbourne,Australian Open,1/31/2004,Grand Slam,Outdoor,Hard,The Final,5,Safin M.,2,86,3,0,Completed,Win,1997.490702,1703.249445
+12,Rotterdam,ABN AMRO World Tennis Tournament,2/18/2004,International Gold,Indoor,Hard,1st Round,3,Clement A.,1,29,2,0,Completed,Win,2002.459605,1676.243748
+12,Rotterdam,ABN AMRO World Tennis Tournament,2/19/2004,International Gold,Indoor,Hard,2nd Round,3,Pavel A.,1,52,2,0,Completed,Win,2006.70396,1695.771753
+12,Rotterdam,ABN AMRO World Tennis Tournament,2/20/2004,International Gold,Indoor,Hard,Quarterfinals,3,Henman T.,11,1,2,0,Completed,Lose,1828.485282,2011.282798
+16,Dubai ,Dubai Championships,3/2/2004,International Gold,Outdoor,Hard,1st Round,3,Safin M.,1,30,2,0,Completed,Win,1987.564078,1688.426381
+16,Dubai ,Dubai Championships,3/4/2004,International Gold,Outdoor,Hard,2nd Round,3,Robredo T.,1,20,2,0,Completed,Win,1992.41582,1670.11736
+16,Dubai ,Dubai Championships,3/7/2004,International Gold,Outdoor,Hard,The Final,3,Lopez F.,1,32,2,1,Completed,Win,2005.85448,1697.248894
+18,Indian Wells,Pacific Life Open,3/14/2004,Masters,Outdoor,Hard,2nd Round,3,Pavel A.,1,49,2,0,Completed,Win,2010.48612,1692.286469
+18,Indian Wells,Pacific Life Open,3/20/2004,Masters,Outdoor,Hard,Semifinals,3,Agassi A.,1,5,2,1,Completed,Win,2028.778682,1913.807868
+18,Indian Wells,Pacific Life Open,3/21/2004,Masters,Outdoor,Hard,The Final,3,Henman T.,1,10,2,0,Completed,Win,2039.669233,1848.041722
+19,Miami,NASDAQ-100 Open,3/27/2004,Masters,Outdoor,Hard,2nd Round,3,Davydenko N.,1,54,2,1,Completed,Win,2047.642357,1490.454853
+19,Miami,NASDAQ-100 Open,3/29/2004,Masters,Outdoor,Hard,3rd Round,3,Nadal R.,34,1,2,0,Completed,Lose,1639.784424,2048.886745
+26,Rome,Telecom Italia Masters Roma,5/4/2004,Masters,Outdoor,Clay,1st Round,3,Bjorkman J.,1,26,2,0,Completed,Win,2019.660203,1653.944237
+26,Rome,Telecom Italia Masters Roma,5/5/2004,Masters,Outdoor,Clay,2nd Round,3,Costa A.,39,1,2,1,Completed,Lose,1563.987809,2023.135067
+27,Hamburg,Hamburg TMS,5/11/2004,Masters,Outdoor,Clay,1st Round,3,Gaudio G.,1,34,2,1,Completed,Win,1993.260436,1635.839562
+27,Hamburg,Hamburg TMS,5/13/2004,Masters,Outdoor,Clay,3rd Round,3,Gonzalez F.,1,14,2,0,Completed,Win,1998.894914,1722.731684
+27,Hamburg,Hamburg TMS,5/14/2004,Masters,Outdoor,Clay,Quarterfinals,3,Moya C.,1,8,2,0,Completed,Win,2004.316445,1882.957816
+30,Paris,French Open,5/25/2004,Grand Slam,Outdoor,Clay,1st Round,5,Vliegen K.,1,110,3,0,Completed,Win,2036.552672,1567.706813
+30,Paris,French Open,5/29/2004,Grand Slam,Outdoor,Clay,3rd Round,5,Kuerten G.,30,1,3,0,Completed,Lose,1728.122323,2041.638717
+31,Halle,Gerry Weber Open,6/9/2004,International,Outdoor,Grass,2nd Round,3,Youzhny M.,1,34,2,0,Completed,Win,2016.625773,1669.833323
+31,Halle,Gerry Weber Open,6/11/2004,International,Outdoor,Grass,Quarterfinals,3,Clement A.,1,37,2,0,Completed,Win,2020.452723,1601.178814
+35,London,Wimbledon,6/21/2004,Grand Slam,Outdoor,Grass,1st Round,5,Bogdanovic A.,1,295,3,0,Completed,Win,2032.238847,1477.845796
+35,London,Wimbledon,6/24/2004,Grand Slam,Outdoor,Grass,2nd Round,5,Falla A.,1,138,3,0,Completed,Win,2033.502616,1521.0781
+35,London,Wimbledon,6/27/2004,Grand Slam,Outdoor,Grass,3rd Round,5,Johansson T.,1,123,3,0,Completed,Win,2035.094559,1660.963818
+35,London,Wimbledon,6/30/2004,Grand Slam,Outdoor,Grass,Quarterfinals,5,Hewitt L.,1,10,3,1,Completed,Win,2040.239686,1881.272058
+35,London,Wimbledon,7/4/2004,Grand Slam,Outdoor,Grass,The Final,5,Roddick A.,1,2,3,1,Completed,Win,2054.220045,1939.597692
+37,Gstaad,Allianz Suisse Open,7/6/2004,International,Outdoor,Clay,1st Round,3,Behrend T.,1,130,2,0,Completed,Win,2065.125011,1443.830903
+37,Gstaad,Allianz Suisse Open,7/9/2004,International,Outdoor,Clay,2nd Round,3,Karlovic I.,1,59,2,1,Completed,Win,2068.098848,1561.592232
+37,Gstaad,Allianz Suisse Open,7/10/2004,International,Outdoor,Clay,Semifinals,3,Starace P.,1,145,2,1,Completed,Win,2069.743121,1569.184955
+45,Toronto,Toronto TMS,7/29/2004,Masters,Outdoor,Hard,2nd Round,3,Soderling R.,1,50,2,0,Completed,Win,2077.197472,1606.516374
+45,Toronto,Toronto TMS,7/31/2004,Masters,Outdoor,Hard,Semifinals,3,Johansson T.,1,99,2,1,Completed,Win,2081.265176,1684.288963
+45,Toronto,Toronto TMS,8/1/2004,Masters,Outdoor,Hard,The Final,3,Roddick A.,1,2,2,0,Completed,Win,2084.220629,1977.725017
+46,Cincinnati,Western & Southern Financial Group Masters,8/3/2004,Masters,Outdoor,Hard,1st Round,3,Hrbaty D.,21,1,2,1,Completed,Lose,1635.818213,2095.464357
+50,New York,US Open,8/30/2004,Grand Slam,Outdoor,Hard,1st Round,5,Costa A.,1,44,3,0,Completed,Win,2065.584035,1598.202789
+50,New York,US Open,9/2/2004,Grand Slam,Outdoor,Hard,2nd Round,5,Baghdatis M.,1,240,3,1,Completed,Win,2067.617266,1514.845772
+50,New York,US Open,9/7/2004,Grand Slam,Outdoor,Hard,4th Round,5,Pavel A.,1,18,,,Walkover,Win,2072.166933,1664.404579
+50,New York,US Open,9/11/2004,Grand Slam,Outdoor,Hard,Semifinals,5,Henman T.,1,6,3,0,Completed,Win,2082.922809,1830.094295
+50,New York,US Open,9/12/2004,Grand Slam,Outdoor,Hard,The Final,5,Hewitt L.,1,5,3,0,Completed,Win,2088.976319,1964.991018
+54,Bangkok,Thailand Open,9/28/2004,International,Indoor,Hard,1st Round,3,Thomann N.,1,507,2,0,Completed,Win,2099.497218,1510.600491
+54,Bangkok,Thailand Open,9/30/2004,International,Indoor,Hard,2nd Round,3,Heuberger I.,1,129,2,0,Completed,Win,2100.540759,1408.131106
+54,Bangkok,Thailand Open,10/1/2004,International,Indoor,Hard,Quarterfinals,3,Soderling R.,1,50,2,0,Completed,Win,2101.124382,1649.47078
+54,Bangkok,Thailand Open,10/3/2004,International,Indoor,Hard,The Final,3,Roddick A.,1,2,2,0,Completed,Win,2106.48291,1977.069277
+67,Houston,Masters Cup,11/15/2004,Masters Cup,Outdoor,Hard,Round Robin,3,Gaudio G.,1,10,2,0,Completed,Win,2116.784333,1706.698492
+67,Houston,Masters Cup,11/18/2004,Masters Cup,Outdoor,Hard,Round Robin,3,Hewitt L.,1,3,2,0,Completed,Win,2119.543483,1934.08222
+67,Houston,Masters Cup,11/19/2004,Masters Cup,Outdoor,Hard,Round Robin,3,Moya C.,1,5,2,1,Completed,Win,2127.73099,1799.190255
+67,Houston,Masters Cup,11/20/2004,Masters Cup,Outdoor,Hard,Semifinals,3,Safin M.,1,4,2,0,Completed,Win,2131.926318,1872.989589
+67,Houston,Masters Cup,11/21/2004,Masters Cup,Outdoor,Hard,The Final,5,Hewitt L.,1,3,2,0,Completed,Win,2137.809126,1950.330863
+3,Doha,Qatar Exxon Mobil Open,1/3/2005,International,Outdoor,Hard,1st Round,3,Ferrer D.,1,49,2,0,Completed,Win,2145.926094,1558.822117
+3,Doha,Qatar Exxon Mobil Open,1/5/2005,International,Outdoor,Hard,2nd Round,3,Rusedski G.,1,46,2,0,Completed,Win,2146.980103,1723.531231
+3,Doha,Qatar Exxon Mobil Open,1/6/2005,International,Outdoor,Hard,Quarterfinals,3,Lopez F.,1,25,2,0,Completed,Win,2149.551382,1731.632122
+3,Doha,Qatar Exxon Mobil Open,1/7/2005,International,Outdoor,Hard,Semifinals,3,Davydenko N.,1,28,2,0,Completed,Win,2152.198944,1702.542878
+3,Doha,Qatar Exxon Mobil Open,1/8/2005,International,Outdoor,Hard,The Final,3,Ljubicic I.,1,22,2,0,Completed,Win,2154.435323,1747.911835
+6,Melbourne,Australian Open,1/19/2005,Grand Slam,Outdoor,Hard,2nd Round,5,Suzuki T.,1,203,3,0,Completed,Win,2159.325852,1527.593991
+6,Melbourne,Australian Open,1/23/2005,Grand Slam,Outdoor,Hard,4th Round,5,Baghdatis M.,1,155,3,0,Completed,Win,2161.469997,1559.444694
+6,Melbourne,Australian Open,1/25/2005,Grand Slam,Outdoor,Hard,Quarterfinals,5,Agassi A.,1,8,3,0,Completed,Win,2162.439882,1906.632367
+6,Melbourne,Australian Open,1/27/2005,Grand Slam,Outdoor,Hard,Semifinals,5,Safin M.,4,1,3,2,Completed,Lose,1895.82386,2168.40967
+15,Rotterdam,ABN AMRO World Tennis Tournament,2/20/2005,International Gold,Indoor,Hard,The Final,3,Johansson T.,1,29,2,1,Completed,Win,2147.945799,1769.862973
+17,Dubai ,Dubai Duty Free Men's Open,2/23/2005,International Gold,Outdoor,Hard,1st Round,3,Minar J.,1,278,2,1,Completed,Win,2151.206218,1500
+17,Dubai ,Dubai Duty Free Men's Open,2/24/2005,International Gold,Outdoor,Hard,2nd Round,3,Ferrero J.C.,1,98,2,1,Completed,Win,2151.942468,1664.880739
+17,Dubai ,Dubai Duty Free Men's Open,2/27/2005,International Gold,Outdoor,Hard,The Final,3,Ljubicic I.,1,14,2,1,Completed,Win,2162.652975,1814.271437
+19,Indian Wells,Pacific Life Open,3/13/2005,Masters,Outdoor,Hard,2nd Round,3,Fish M.,1,49,2,0,Completed,Win,2166.449212,1619.708863
+19,Indian Wells,Pacific Life Open,3/18/2005,Masters,Outdoor,Hard,Quarterfinals,3,Kiefer N.,1,31,2,0,Completed,Win,2172.551159,1777.012277
+19,Indian Wells,Pacific Life Open,3/20/2005,Masters,Outdoor,Hard,The Final,5,Hewitt L.,1,2,3,0,Completed,Win,2179.076198,1995.552149
+20,Miami,NASDAQ-100 Open,3/26/2005,Masters,Outdoor,Hard,2nd Round,3,Rochus O.,1,40,2,0,Completed,Win,2187.331832,1686.65897
+20,Miami,NASDAQ-100 Open,3/30/2005,Masters,Outdoor,Hard,4th Round,3,Ancic M.,1,20,2,1,Completed,Win,2190.187046,1713.398062
+20,Miami,NASDAQ-100 Open,4/3/2005,Masters,Outdoor,Hard,The Final,5,Nadal R.,1,31,3,2,Completed,Win,2201.435378,1837.899081
+23,Monte Carlo,Monte Carlo Masters,4/13/2005,Masters,Outdoor,Clay,2nd Round,3,Montanes A.,1,62,2,0,Completed,Win,2206.341581,1491.039482
+23,Monte Carlo,Monte Carlo Masters,4/15/2005,Masters,Outdoor,Clay,Quarterfinals,3,Gasquet R.,101,1,2,1,Completed,Lose,1578.623581,2208.829479
+29,Hamburg,Hamburg TMS,5/11/2005,Masters,Outdoor,Clay,2nd Round,3,Berdych T.,1,46,2,0,Completed,Win,2179.173544,1560.94959
+29,Hamburg,Hamburg TMS,5/14/2005,Masters,Outdoor,Clay,Semifinals,3,Davydenko N.,1,20,2,0,Completed,Win,2186.407561,1731.540792
+31,Paris,French Open,5/23/2005,Grand Slam,Outdoor,Clay,1st Round,5,Sela D.,1,264,3,0,Completed,Win,2190.251011,1500
+31,Paris,French Open,5/27/2005,Grand Slam,Outdoor,Clay,3rd Round,5,Gonzalez F.,1,26,3,0,Completed,Win,2191.42501,1722.327657
+31,Paris,French Open,5/31/2005,Grand Slam,Outdoor,Clay,Quarterfinals,5,Hanescu V.,1,90,3,0,Completed,Win,2195.743698,1609.884293
+31,Paris,French Open,6/3/2005,Grand Slam,Outdoor,Clay,Semifinals,5,Nadal R.,5,1,3,1,Completed,Lose,1989.348354,2196.805035
+32,Halle,Gerry Weber Open,6/7/2005,International,Outdoor,Grass,1st Round,3,Soderling R.,1,35,2,1,Completed,Win,2172.245215,1651.512764
+32,Halle,Gerry Weber Open,6/10/2005,International,Outdoor,Grass,Quarterfinals,3,Kohlschreiber P.,1,71,2,0,Completed,Win,2174.653468,1454.789912
+36,London,Wimbledon,6/22/2005,Grand Slam,Outdoor,Grass,2nd Round,5,Minar I.,1,99,3,0,Completed,Win,2182.579317,1594.001622
+36,London,Wimbledon,6/25/2005,Grand Slam,Outdoor,Grass,3rd Round,5,Kiefer N.,1,26,3,1,Completed,Win,2183.624713,1725.833855
+36,London,Wimbledon,7/1/2005,Grand Slam,Outdoor,Grass,Semifinals,5,Hewitt L.,1,2,3,0,Completed,Win,2190.847979,1999.239785
+49,Cincinnati,Western & Southern Financial Group Masters,8/16/2005,Masters,Outdoor,Hard,1st Round,3,Blake J.,1,70,2,0,Completed,Win,2205.25149,1648.857501
+49,Cincinnati,Western & Southern Financial Group Masters,8/19/2005,Masters,Outdoor,Hard,Quarterfinals,3,Acasuso J.,1,52,2,0,Completed,Win,2208.423791,1590.75418
+49,Cincinnati,Western & Southern Financial Group Masters,8/19/2005,Masters,Outdoor,Hard,3rd Round,3,Rochus O.,1,34,2,0,Completed,Win,2209.31247,1677.140029
+49,Cincinnati,Western & Southern Financial Group Masters,8/20/2005,Masters,Outdoor,Hard,Semifinals,3,Ginepri R.,1,58,2,1,Completed,Win,2210.740986,1740.775322
+51,New York,US Open,9/5/2005,Grand Slam,Outdoor,Hard,3rd Round,5,Rochus O.,1,29,3,0,Completed,Win,2221.135146,1673.543227
+51,New York,US Open,9/6/2005,Grand Slam,Outdoor,Hard,4th Round,5,Kiefer N.,1,38,3,1,Completed,Win,2222.447305,1755.902796
+51,New York,US Open,9/9/2005,Grand Slam,Outdoor,Hard,Quarterfinals,5,Nalbandian D.,1,11,3,0,Completed,Win,2224.489727,1781.310535
+51,New York,US Open,9/10/2005,Grand Slam,Outdoor,Hard,Semifinals,5,Hewitt L.,1,4,3,1,Completed,Win,2226.804915,1992.255482
+51,New York,US Open,9/11/2005,Grand Slam,Outdoor,Hard,The Final,5,Agassi A.,1,7,3,1,Completed,Win,2233.391851,1956.591999
+54,Bangkok,Thailand Open,9/29/2005,International,Indoor,Hard,2nd Round,3,Gremelmayr D.,1,239,2,0,Completed,Win,2239.160255,1481.111228
+54,Bangkok,Thailand Open,9/30/2005,International,Indoor,Hard,Quarterfinals,3,Muller G.,1,66,2,0,Completed,Win,2239.56254,1660.899591
+54,Bangkok,Thailand Open,10/1/2005,International,Indoor,Hard,Semifinals,3,Nieminen J.,1,42,2,0,Completed,Win,2240.667217,1718.795818
+54,Bangkok,Thailand Open,10/2/2005,International,Indoor,Hard,The Final,3,Murray A.,1,109,2,0,Completed,Win,2242.178881,1634.838594
+67,Shanghai,Masters Cup,11/13/2005,Masters Cup,Indoor,Hard,Round Robin,3,Nalbandian D.,1,12,2,1,Completed,Win,2243.1204,1777.859642
+67,Shanghai,Masters Cup,11/15/2005,Masters Cup,Indoor,Hard,Round Robin,3,Ljubicic I.,1,8,2,1,Completed,Win,2245.176998,1878.612565
+67,Shanghai,Masters Cup,11/17/2005,Masters Cup,Indoor,Hard,Round Robin,3,Coria G.,1,6,2,1,Completed,Win,2248.636762,1765.61953
+67,Shanghai,Masters Cup,11/19/2005,Masters Cup,Indoor,Hard,Semifinals,3,Gaudio G.,1,9,2,0,Completed,Win,2250.505199,1784.158413
+67,Shanghai,Masters Cup,11/20/2005,Masters Cup,Indoor,Hard,The Final,5,Nalbandian D.,12,1,3,2,Completed,Lose,1827.182095,2252.549798
+3,Doha,Qatar Exxon Mobil Open,1/3/2006,International,Outdoor,Hard,1st Round,3,Minar I.,1,73,2,0,Completed,Win,2223.095079,1545.025302
+3,Doha,Qatar Exxon Mobil Open,1/4/2006,International,Outdoor,Hard,2nd Round,3,Santoro F.,1,58,2,0,Completed,Win,2223.727929,1684.291976
+3,Doha,Qatar Exxon Mobil Open,1/5/2006,International,Outdoor,Hard,Quarterfinals,3,Baghdatis M.,1,55,2,0,Completed,Win,2225.100457,1634.398894
+3,Doha,Qatar Exxon Mobil Open,1/6/2006,International,Outdoor,Hard,Semifinals,3,Haas T.,1,45,2,0,Completed,Win,2226.13356,1712.118456
+3,Doha,Qatar Exxon Mobil Open,1/7/2006,International,Outdoor,Hard,The Final,3,Monfils G.,1,30,2,0,Completed,Win,2227.711709,1716.371598
+6,Melbourne,Australian Open,1/19/2006,Grand Slam,Outdoor,Hard,2nd Round,5,Mayer F.,1,69,3,0,Completed,Win,2229.786699,1640.44479
+6,Melbourne,Australian Open,1/23/2006,Grand Slam,Outdoor,Hard,4th Round,5,Haas T.,1,41,3,2,Completed,Win,2231.918446,1744.049046
+17,Dubai ,Dubai Tennis Championships,2/28/2006,International Gold,Outdoor,Hard,1st Round,3,Wawrinka S.,1,57,2,0,Completed,Win,2240.579694,1578.089327
+17,Dubai ,Dubai Tennis Championships,3/1/2006,International Gold,Outdoor,Hard,2nd Round,3,Al Ghareeb M.,1,488,2,0,Completed,Win,2241.27064,1498.737245
+17,Dubai ,Dubai Tennis Championships,3/2/2006,International Gold,Outdoor,Hard,Quarterfinals,3,Vik R.,1,75,2,0,Completed,Win,2241.709992,1569.457219
+17,Dubai ,Dubai Tennis Championships,3/4/2006,International Gold,Outdoor,Hard,The Final,3,Nadal R.,2,1,2,1,Completed,Lose,2033.549871,2243.885238
+19,Indian Wells,Pacific Life Open,3/16/2006,Masters,Outdoor,Hard,Quarterfinals,3,Ljubicic I.,1,6,2,0,Completed,Win,2223.614481,1920.709506
+20,Miami,NASDAQ-100 Open,3/25/2006,Masters,Outdoor,Hard,2nd Round,3,Clement A.,1,53,2,1,Completed,Win,2234.307242,1705.930378
+20,Miami,NASDAQ-100 Open,3/28/2006,Masters,Outdoor,Hard,3rd Round,3,Haas T.,1,28,2,0,Completed,Win,2235.765876,1846.606158
+20,Miami,NASDAQ-100 Open,3/28/2006,Masters,Outdoor,Hard,4th Round,3,Tursunov D.,1,36,2,0,Completed,Win,2238.844263,1674.887417
+20,Miami,NASDAQ-100 Open,4/2/2006,Masters,Outdoor,Hard,The Final,5,Ljubicic I.,1,6,3,0,Completed,Win,2245.627442,1947.388536
+23,Monte Carlo,Monte Carlo Masters,4/20/2006,Masters,Outdoor,Clay,3rd Round,3,Balleret B.,1,351,2,0,Completed,Win,2252.040785,1544.553836
+23,Monte Carlo,Monte Carlo Masters,4/21/2006,Masters,Outdoor,Clay,Quarterfinals,3,Ferrer D.,1,15,2,0,Completed,Win,2252.576702,1723.876495
+23,Monte Carlo,Monte Carlo Masters,4/23/2006,Masters,Outdoor,Clay,The Final,5,Nadal R.,2,1,3,1,Completed,Lose,2039.424436,2256.026124
+28,Rome,Campionati Internazional d'Italia,5/8/2006,Masters,Outdoor,Clay,1st Round,3,Chela J.I.,1,30,2,0,Completed,Win,2231.169939,1649.244383
+28,Rome,Campionati Internazional d'Italia,5/10/2006,Masters,Outdoor,Clay,2nd Round,3,Starace P.,1,81,2,0,Completed,Win,2232.25476,1537.523619
+28,Rome,Campionati Internazional d'Italia,5/14/2006,Masters,Outdoor,Clay,The Final,5,Nadal R.,2,1,3,2,Completed,Lose,2096.555557,2240.866745
+31,Paris,French Open,6/9/2006,Grand Slam,Outdoor,Clay,Semifinals,5,Nalbandian D.,1,3,1,1,Retired,Win,2225.451815,1944.203856
+31,Paris,French Open,6/11/2006,Grand Slam,Outdoor,Clay,The Final,5,Nadal R.,2,1,3,1,Completed,Lose,2139.149567,2230.742815
+32,Halle,Gerry Weber Open,6/14/2006,International,Outdoor,Grass,1st Round,3,Bopanna R.,1,267,2,0,Completed,Win,2210.619864,1491.870768
+32,Halle,Gerry Weber Open,6/15/2006,International,Outdoor,Grass,2nd Round,3,Gasquet R.,1,51,2,1,Completed,Win,2211.122668,1664.252723
+32,Halle,Gerry Weber Open,6/16/2006,International,Outdoor,Grass,Quarterfinals,3,Rochus O.,1,29,2,1,Completed,Win,2212.440067,1746.449875
+36,London,Wimbledon,6/27/2006,Grand Slam,Outdoor,Grass,1st Round,5,Gasquet R.,1,50,3,0,Completed,Win,2219.210133,1726.017747
+48,Toronto,Rogers Masters,8/12/2006,Masters,Outdoor,Hard,Quarterfinals,3,Malisse X.,1,41,2,1,Completed,Win,2247.148809,1704.212955
+48,Toronto,Rogers Masters,8/13/2006,Masters,Outdoor,Hard,The Final,3,Gasquet R.,1,51,2,1,Completed,Win,2251.344305,1827.215968
+49,Cincinnati,Western & Southern Financial Group Masters,8/16/2006,Masters,Outdoor,Hard,2nd Round,3,Murray A.,21,1,2,0,Completed,Lose,1767.475256,2253.90635
+49,Cincinnati,Western & Southern Financial Group Masters,8/16/2006,Masters,Outdoor,Hard,1st Round,3,Srichaphan P.,1,45,2,0,Completed,Win,2223.740512,1564.678194
+51,New York,US Open,8/30/2006,Grand Slam,Outdoor,Hard,1st Round,5,Wang Y.T.,1,109,3,0,Completed,Win,2224.444925,1491.288971
+51,New York,US Open,9/4/2006,Grand Slam,Outdoor,Hard,3rd Round,5,Spadea V.,1,84,3,0,Completed,Win,2226.66233,1567.101035
+51,New York,US Open,9/8/2006,Grand Slam,Outdoor,Hard,Quarterfinals,5,Blake J.,1,7,3,1,Completed,Win,2228.1607,1838.80024
+51,New York,US Open,9/9/2006,Grand Slam,Outdoor,Hard,Semifinals,5,Davydenko N.,1,6,3,0,Completed,Win,2231.235873,1857.641607
+58,Tokyo,Japan Open,10/4/2006,International Gold,Outdoor,Hard,2nd Round,3,Troicki V.,1,276,2,0,Completed,Win,2239.082425,1511.923359
+58,Tokyo,Japan Open,10/5/2006,International Gold,Outdoor,Hard,3rd Round,3,Moodie W.,1,73,2,0,Completed,Win,2239.561824,1568.197648
+58,Tokyo,Japan Open,10/6/2006,International Gold,Outdoor,Hard,Quarterfinals,3,Suzuki T.,1,1078,2,1,Completed,Win,2240.219068,1560.59076
+62,Madrid,Madrid Masters,10/19/2006,Masters,Indoor,Hard,3rd Round,3,Soderling R.,1,29,2,0,Completed,Win,2244.900606,1754.771967
+62,Madrid,Madrid Masters,10/21/2006,Masters,Indoor,Hard,Semifinals,3,Nalbandian D.,1,4,2,0,Completed,Win,2247.966552,1877.089904
+62,Madrid,Madrid Masters,10/22/2006,Masters,Indoor,Hard,The Final,5,Gonzalez F.,1,10,3,0,Completed,Win,2251.350462,1921.961209
+63,Basel,Davidoff Swiss Indoors,10/24/2006,International,Indoor,Carpet,1st Round,3,Zib T.,1,151,2,0,Completed,Win,2255.528016,1396.842753
+63,Basel,Davidoff Swiss Indoors,10/27/2006,International,Indoor,Carpet,Quarterfinals,3,Ferrer D.,1,15,2,0,Completed,Win,2256.230053,1740.901765
+63,Basel,Davidoff Swiss Indoors,10/28/2006,International,Indoor,Carpet,Semifinals,3,Srichaphan P.,1,54,2,1,Completed,Win,2257.796899,1682.276891
+63,Basel,Davidoff Swiss Indoors,10/29/2006,International,Indoor,Carpet,The Final,5,Gonzalez F.,1,7,3,0,Completed,Win,2258.921036,1939.098858
+67,Shanghai,Masters Cup,11/12/2006,Masters Cup,Indoor,Hard,Round Robin,3,Nalbandian D.,1,7,2,1,Completed,Win,2263.302726,1859.941126
+67,Shanghai,Masters Cup,11/14/2006,Masters Cup,Indoor,Hard,Round Robin,3,Roddick A.,1,5,2,1,Completed,Win,2266.161044,1920.471778
+67,Shanghai,Masters Cup,11/16/2006,Masters Cup,Indoor,Hard,Round Robin,3,Ljubicic I.,1,4,2,0,Completed,Win,2270.009442,1855.446875
+67,Shanghai,Masters Cup,11/18/2006,Masters Cup,Indoor,Hard,Semifinals,3,Nadal R.,1,2,2,0,Completed,Win,2272.704309,2012.867286
+67,Shanghai,Masters Cup,11/19/2006,Masters Cup,Indoor,Hard,The Final,5,Blake J.,1,8,3,0,Completed,Win,2278.562274,1900.846885
+6,Melbourne,Australian Open,1/15/2007,Grand Slam,Outdoor,Hard,1st Round,5,Phau B.,1,82,3,0,Completed,Win,2281.828892,1459.622471
+6,Melbourne,Australian Open,1/17/2007,Grand Slam,Outdoor,Hard,2nd Round,5,Bjorkman J.,1,50,3,0,Completed,Win,2282.108036,1594.884528
+6,Melbourne,Australian Open,1/19/2007,Grand Slam,Outdoor,Hard,3rd Round,5,Youzhny M.,1,25,3,0,Completed,Win,2282.709013,1706.575831
+6,Melbourne,Australian Open,1/21/2007,Grand Slam,Outdoor,Hard,4th Round,5,Djokovic N.,1,15,3,0,Completed,Win,2283.829327,1832.431629
+6,Melbourne,Australian Open,1/28/2007,Grand Slam,Outdoor,Hard,The Final,5,Gonzalez F.,1,9,3,0,Completed,Win,2292.075135,1972.675637
+17,Dubai ,Dubai Tennis Championships,2/28/2007,International Gold,Outdoor,Hard,2nd Round,3,Bracciali D.,1,88,2,0,Completed,Win,2296.729007,1521.185105
+17,Dubai ,Dubai Tennis Championships,3/1/2007,International Gold,Outdoor,Hard,Quarterfinals,3,Djokovic N.,1,14,2,1,Completed,Win,2297.09319,1831.716208
+17,Dubai ,Dubai Tennis Championships,3/3/2007,International Gold,Outdoor,Hard,The Final,3,Youzhny M.,1,18,2,0,Completed,Win,2302.068719,1881.609597
+19,Indian Wells,Pacific Life Open,3/11/2007,Masters,Outdoor,Hard,2nd Round,3,Canas G.,60,1,2,0,Completed,Lose,1799.438492,2304.68099
+20,Miami,Sony Ericsson Open,3/25/2007,Masters,Outdoor,Hard,2nd Round,3,Querrey S.,1,69,2,0,Completed,Win,2274.336651,1627.792333
+20,Miami,Sony Ericsson Open,3/27/2007,Masters,Outdoor,Hard,4th Round,3,Canas G.,55,1,2,1,Completed,Lose,1848.080537,2275.898776
+23,Monte Carlo,Monte Carlo Masters,4/17/2007,Masters,Outdoor,Clay,2nd Round,3,Seppi A.,1,101,2,0,Completed,Win,2246.411203,1449.218966
+23,Monte Carlo,Monte Carlo Masters,4/20/2007,Masters,Outdoor,Clay,Quarterfinals,3,Ferrer D.,1,16,2,0,Completed,Win,2247.493328,1822.991287
+23,Monte Carlo,Monte Carlo Masters,4/21/2007,Masters,Outdoor,Clay,Semifinals,3,Ferrero J.C.,1,21,2,0,Completed,Win,2250.050308,1729.380196
+23,Monte Carlo,Monte Carlo Masters,4/22/2007,Masters,Outdoor,Clay,The Final,3,Nadal R.,2,1,2,0,Completed,Lose,2013.939853,2251.571963
+28,Rome,Internazionali BNL d'Italia,5/8/2007,Masters,Outdoor,Clay,2nd Round,3,Almagro N.,1,40,2,0,Completed,Win,2226.066556,1680.188683
+28,Rome,Internazionali BNL d'Italia,5/10/2007,Masters,Outdoor,Clay,3rd Round,3,Volandri F.,53,1,2,0,Completed,Lose,1649.340081,2227.391188
+29,Hamburg,Hamburg TMS,5/18/2007,Masters,Outdoor,Clay,Quarterfinals,3,Ferrer D.,1,14,2,1,Completed,Win,2199.878862,1847.020431
+29,Hamburg,Hamburg TMS,5/20/2007,Masters,Outdoor,Clay,The Final,3,Nadal R.,1,2,2,1,Completed,Win,2206.164924,2115.944366
+31,Paris,French Open,5/29/2007,Grand Slam,Outdoor,Clay,1st Round,5,Russell M.,1,68,3,0,Completed,Win,2218.10105,1470.21115
+31,Paris,French Open,5/30/2007,Grand Slam,Outdoor,Clay,2nd Round,5,Ascione T.,1,168,3,0,Completed,Win,2218.527239,1463.667191
+31,Paris,French Open,6/8/2007,Grand Slam,Outdoor,Clay,Semifinals,5,Davydenko N.,1,4,3,0,Completed,Win,2225.964444,1827.512468
+31,Paris,French Open,6/10/2007,Grand Slam,Outdoor,Clay,The Final,5,Nadal R.,2,1,3,1,Completed,Lose,2129.161704,2228.897187
+36,London,Wimbledon,7/7/2007,Grand Slam,Outdoor,Grass,Semifinals,5,Gasquet R.,1,14,3,0,Completed,Win,2216.943769,1811.898266
+48,Montreal,Rogers Masters,8/10/2007,Masters,Outdoor,Hard,Quarterfinals,3,Hewitt L.,1,21,2,0,Completed,Win,2234.820158,1861.826836
+48,Montreal,Rogers Masters,8/13/2007,Masters,Outdoor,Hard,The Final,3,Djokovic N.,4,1,2,1,Completed,Lose,1985.607061,2240.56948
+49,Cincinnati,Western & Southern Financial Group Masters,8/16/2007,Masters,Outdoor,Hard,3rd Round,3,Baghdatis M.,1,18,2,0,Completed,Win,2214.562928,1832.961942
+49,Cincinnati,Western & Southern Financial Group Masters,8/16/2007,Masters,Outdoor,Hard,2nd Round,3,Benneteau J.,1,68,2,0,Completed,Win,2217.76452,1582.840935
+49,Cincinnati,Western & Southern Financial Group Masters,8/18/2007,Masters,Outdoor,Hard,Semifinals,3,Hewitt L.,1,20,2,1,Completed,Win,2220.071696,1901.056408
+49,Cincinnati,Western & Southern Financial Group Masters,8/19/2007,Masters,Outdoor,Hard,The Final,3,Blake J.,1,8,2,0,Completed,Win,2224.470981,1801.969114
+51,New York,US Open,9/1/2007,Grand Slam,Outdoor,Hard,3rd Round,5,Isner J.,1,184,3,1,Completed,Win,2228.125625,1608.57738
+51,New York,US Open,9/9/2007,Grand Slam,Outdoor,Hard,The Final,5,Djokovic N.,1,3,3,0,Completed,Win,2237.972548,2030.396539
+61,Madrid,Madrid Masters,10/16/2007,Masters,Indoor,Hard,2nd Round,3,Ginepri R.,1,72,2,0,Completed,Win,2245.408807,1616.313271
+61,Madrid,Madrid Masters,10/19/2007,Masters,Indoor,Hard,Quarterfinals,3,Lopez F.,1,42,2,0,Completed,Win,2247.996128,1738.013906
+61,Madrid,Madrid Masters,10/21/2007,Masters,Indoor,Hard,The Final,3,Nalbandian D.,25,1,2,1,Completed,Lose,1821.833798,2251.775273
+62,Basel,Davidoff Swiss Indoors,10/26/2007,International,Indoor,Carpet,Quarterfinals,3,Kiefer N.,1,64,2,0,Completed,Win,2224.218089,1806.617718
+62,Basel,Davidoff Swiss Indoors,10/27/2007,International,Indoor,Carpet,Semifinals,3,Karlovic I.,1,25,2,0,Completed,Win,2226.870112,1848.203475
+62,Basel,Davidoff Swiss Indoors,10/28/2007,International,Indoor,Carpet,The Final,5,Nieminen J.,1,29,2,0,Completed,Win,2230.120703,1724.389636
+65,Paris,BNP Paribas,10/31/2007,Masters,Indoor,Carpet,2nd Round,3,Karlovic I.,1,24,2,1,Completed,Win,2231.771954,1857.80355
+65,Paris,BNP Paribas,11/1/2007,Masters,Indoor,Carpet,3rd Round,3,Nalbandian D.,21,1,2,0,Completed,Lose,1851.553903,2235.102383
+66,Shanghai,Masters Cup,11/12/2007,Masters Cup,Indoor,Hard,Round Robin,3,Gonzalez F.,7,1,2,1,Completed,Lose,1771.432967,2206.271818
+66,Shanghai,Masters Cup,11/16/2007,Masters Cup,Indoor,Hard,Round Robin,3,Roddick A.,1,5,2,0,Completed,Win,2180.088135,1925.391011
+66,Shanghai,Masters Cup,11/17/2007,Masters Cup,Indoor,Hard,Semifinals,3,Nadal R.,1,2,2,0,Completed,Win,2186.089025,2053.967229
+66,Shanghai,Masters Cup,11/18/2007,Masters Cup,Indoor,Hard,The Final,5,Ferrer D.,1,6,3,0,Completed,Win,2196.281856,1941.067017
+6,Melbourne,Australian Open,1/15/2008,Grand Slam,Outdoor,Hard,1st Round,5,Hartfield D.,1,107,3,0,Completed,Win,2202.268229,1501.142148
+6,Melbourne,Australian Open,1/17/2008,Grand Slam,Outdoor,Hard,2nd Round,5,Santoro F.,1,36,3,0,Completed,Win,2202.823787,1735.133336
+6,Melbourne,Australian Open,1/19/2008,Grand Slam,Outdoor,Hard,3rd Round,5,Tipsarevic J.,1,49,3,2,Completed,Win,2204.853631,1636.914324
+6,Melbourne,Australian Open,1/21/2008,Grand Slam,Outdoor,Hard,4th Round,5,Berdych T.,1,13,3,0,Completed,Win,2206.026072,1825.794945
+6,Melbourne,Australian Open,1/23/2008,Grand Slam,Outdoor,Hard,Quarterfinals,5,Blake J.,1,15,3,0,Completed,Win,2209.250456,1827.524318
+6,Melbourne,Australian Open,1/25/2008,Grand Slam,Outdoor,Hard,Semifinals,5,Djokovic N.,3,1,3,0,Completed,Lose,1979.183508,2212.449974
+17,Dubai ,Dubai Tennis Championships,3/3/2008,International Gold,Outdoor,Hard,1st Round,3,Murray A.,11,1,2,1,Completed,Lose,1900.553456,2187.075627
+19,Indian Wells,Pacific Life Open,3/18/2008,Masters,Outdoor,Hard,3rd Round,3,Mahut N.,1,44,2,0,Completed,Win,2161.270321,1677.299159
+19,Indian Wells,Pacific Life Open,3/20/2008,Masters,Outdoor,Hard,4th Round,3,Ljubicic I.,1,23,2,0,Completed,Win,2163.129121,1750.457898
+19,Indian Wells,Pacific Life Open,3/22/2008,Masters,Outdoor,Hard,Semifinals,3,Fish M.,98,1,2,0,Completed,Lose,1767.607659,2165.850979
+19,Indian Wells,Pacific Life Open,3/22/2008,Masters,Outdoor,Hard,Quarterfinals,3,Haas T.,1,36,,,Walkover,Win,2136.786924,1787.822621
+20,Miami,Sony Ericsson Open,3/30/2008,Masters,Outdoor,Hard,2nd Round,3,Monfils G.,1,64,2,0,Completed,Win,2140.57195,1657.771734
+20,Miami,Sony Ericsson Open,3/31/2008,Masters,Outdoor,Hard,3rd Round,3,Soderling R.,1,39,1,0,Retired,Win,2142.442587,1834.065883
+20,Miami,Sony Ericsson Open,4/4/2008,Masters,Outdoor,Hard,Quarterfinals,3,Roddick A.,6,1,2,1,Completed,Lose,1955.334639,2149.221599
+21,Estoril ,Estoril Open,4/17/2008,International,Outdoor,Clay,2nd Round,3,Hanescu V.,1,68,2,0,Completed,Win,2126.814974,1553.873258
+21,Estoril ,Estoril Open,4/18/2008,International,Outdoor,Clay,Quarterfinals,3,Gil F.,1,146,2,0,Completed,Win,2127.95532,1556.439436
+21,Estoril ,Estoril Open,4/19/2008,International,Outdoor,Clay,Semifinals,3,Gremelmayr D.,1,104,2,1,Completed,Win,2129.104727,1564.079985
+24,Monte Carlo,Monte Carlo Masters,4/25/2008,Masters,Outdoor,Clay,Quarterfinals,3,Nalbandian D.,1,7,2,1,Completed,Win,2140.456375,1909.099563
+24,Monte Carlo,Monte Carlo Masters,4/26/2008,Masters,Outdoor,Clay,Semifinals,3,Djokovic N.,1,3,1,0,Retired,Win,2147.139968,2020.345458
+24,Monte Carlo,Monte Carlo Masters,4/27/2008,Masters,Outdoor,Clay,The Final,3,Nadal R.,2,1,2,0,Completed,Lose,2038.680546,2157.546987
+27,Rome,Internazionali BNL d'Italia,5/8/2008,Masters,Outdoor,Clay,3rd Round,3,Karlovic I.,1,22,2,0,Completed,Win,2139.447547,1734.787572
+27,Rome,Internazionali BNL d'Italia,5/9/2008,Masters,Outdoor,Clay,Quarterfinals,3,Stepanek R.,27,1,2,0,Completed,Lose,1795.682119,2142.28647
+28,Hamburg,Hamburg TMS,5/14/2008,Masters,Outdoor,Clay,2nd Round,3,Nieminen J.,1,27,2,0,Completed,Win,2114.117069,1634.425178
+28,Hamburg,Hamburg TMS,5/15/2008,Masters,Outdoor,Clay,3rd Round,3,Soderling R.,1,48,2,0,Completed,Win,2116.019471,1822.492344
+28,Hamburg,Hamburg TMS,5/18/2008,Masters,Outdoor,Clay,The Final,3,Nadal R.,2,1,2,1,Completed,Lose,2082.398609,2126.908573
+31,Paris,French Open,6/2/2008,Grand Slam,Outdoor,Clay,4th Round,5,Benneteau J.,1,55,3,0,Completed,Win,2118.55462,1726.911096
+31,Paris,French Open,6/4/2008,Grand Slam,Outdoor,Clay,Quarterfinals,5,Gonzalez F.,1,25,3,1,Completed,Win,2121.593456,1845.133622
+31,Paris,French Open,6/8/2008,Grand Slam,Outdoor,Clay,The Final,5,Nadal R.,2,1,3,0,Completed,Lose,2127.493798,2130.022249
+32,Halle,Gerry Weber Open,6/11/2008,International,Outdoor,Grass,1st Round,3,Berrer M.,1,83,2,0,Completed,Win,2113.905811,1500.618312
+37,London,Wimbledon,6/23/2008,Grand Slam,Outdoor,Grass,1st Round,5,Hrbaty D.,1,273,3,0,Completed,Win,2127.90559,1500.310656
+37,London,Wimbledon,6/25/2008,Grand Slam,Outdoor,Grass,2nd Round,5,Soderling R.,1,41,3,0,Completed,Win,2128.746214,1817.457271
+37,London,Wimbledon,6/27/2008,Grand Slam,Outdoor,Grass,3rd Round,5,Gicquel M.,1,53,3,0,Completed,Win,2133.317001,1655.469459
+37,London,Wimbledon,6/30/2008,Grand Slam,Outdoor,Grass,4th Round,5,Hewitt L.,1,27,3,0,Completed,Win,2135.238488,1829.279104
+37,London,Wimbledon,7/6/2008,Grand Slam,Outdoor,Grass,The Final,5,Nadal R.,2,1,3,2,Completed,Lose,2184.390205,2148.474997
+46,Toronto,Rogers Masters,7/24/2008,Masters,Outdoor,Hard,2nd Round,3,Simon G.,22,1,2,1,Completed,Lose,1782.626403,2134.123087
+47,Cincinnati,Western & Southern Financial Group Masters,7/29/2008,Masters,Outdoor,Hard,2nd Round,3,Ginepri R.,1,64,2,1,Completed,Win,2105.859733,1685.249128
+47,Cincinnati,Western & Southern Financial Group Masters,7/31/2008,Masters,Outdoor,Hard,3rd Round,3,Karlovic I.,22,1,2,1,Completed,Lose,1754.695993,2108.469913
+51,New York,US Open,8/29/2008,Grand Slam,Outdoor,Hard,2nd Round,5,Alves T.,2,137,3,0,Completed,Win,2081.307823,1479.854392
+51,New York,US Open,8/31/2008,Grand Slam,Outdoor,Hard,3rd Round,5,Stepanek R.,2,30,3,0,Completed,Win,2082.280809,1765.703743
+51,New York,US Open,9/4/2008,Grand Slam,Outdoor,Hard,Quarterfinals,5,Muller G.,2,130,3,0,Completed,Win,2091.91365,1580.478445
+51,New York,US Open,9/6/2008,Grand Slam,Outdoor,Hard,Semifinals,5,Djokovic N.,2,3,3,1,Completed,Win,2093.51423,2053.766659
+60,Madrid,Madrid Masters,10/16/2008,Masters,Indoor,Hard,3rd Round,3,Tsonga J.W.,2,15,2,0,Completed,Win,2124.20152,1800.543736
+60,Madrid,Madrid Masters,10/18/2008,Masters,Indoor,Hard,Semifinals,3,Murray A.,4,2,2,1,Completed,Lose,2038.314528,2135.087836
+61,Basel,Davidoff Swiss Indoors,10/21/2008,International,Indoor,Carpet,1st Round,3,Reynolds B.,2,86,2,1,Completed,Win,2114.743043,1492.515017
+61,Basel,Davidoff Swiss Indoors,10/24/2008,International,Indoor,Carpet,Quarterfinals,3,Bolelli S.,2,42,2,0,Completed,Win,2117.895204,1662.007263
+61,Basel,Davidoff Swiss Indoors,10/25/2008,International,Indoor,Carpet,Semifinals,3,Lopez F.,2,39,2,0,Completed,Win,2120.058105,1724.40746
+64,Paris,BNP Paribas,10/29/2008,Masters,Indoor,Carpet,2nd Round,3,Soderling R.,2,18,2,0,Completed,Win,2129.73872,1874.267957
+64,Paris,BNP Paribas,10/30/2008,Masters,Indoor,Carpet,3rd Round,3,Cilic M.,2,25,2,0,Completed,Win,2135.717927,1790.713184
+64,Paris,BNP Paribas,10/31/2008,Masters,Indoor,Carpet,Quarterfinals,3,Blake J.,11,2,,,Walkover,Lose,1778.079531,2139.579685
+65,Shanghai,Masters Cup,11/10/2008,Masters Cup,Indoor,Hard,Round Robin,3,Simon G.,9,2,2,1,Completed,Lose,1864.102056,2111.130438
+65,Shanghai,Masters Cup,11/12/2008,Masters Cup,Indoor,Hard,Round Robin,3,Stepanek R.,2,27,2,0,Completed,Win,2085.349533,1745.495834
+65,Shanghai,Masters Cup,11/14/2008,Masters Cup,Indoor,Hard,Round Robin,3,Murray A.,4,2,2,1,Completed,Lose,2083.797407,2089.313119
+3,Doha,Qatar Exxon Mobil Open,1/6/2009,ATP250,Outdoor,Hard,1st Round,3,Starace P.,2,71,2,0,Completed,Win,2073.059132,1568.463192
+3,Doha,Qatar Exxon Mobil Open,1/8/2009,ATP250,Outdoor,Hard,Quarterfinals,3,Kohlschreiber P.,2,28,2,0,Completed,Win,2077.43316,1776.439352
+3,Doha,Qatar Exxon Mobil Open,1/9/2009,ATP250,Outdoor,Hard,Semifinals,3,Murray A.,4,2,2,1,Completed,Lose,2080.852654,2082.241087
+6,Melbourne,Australian Open,1/19/2009,Grand Slam,Outdoor,Hard,1st Round,5,Seppi A.,2,35,3,0,Completed,Win,2066.177147,1643.939204
+6,Melbourne,Australian Open,1/21/2009,Grand Slam,Outdoor,Hard,2nd Round,5,Korolev E.,2,118,3,0,Completed,Win,2068.764958,1600.37851
+6,Melbourne,Australian Open,1/27/2009,Grand Slam,Outdoor,Hard,Quarterfinals,5,Del Potro J.M.,2,6,3,0,Completed,Win,2079.674152,1932.452877
+6,Melbourne,Australian Open,1/29/2009,Grand Slam,Outdoor,Hard,Semifinals,5,Roddick A.,2,9,3,0,Completed,Win,2089.27297,1960.918259
+6,Melbourne,Australian Open,2/1/2009,Grand Slam,Outdoor,Hard,The Final,5,Nadal R.,1,2,3,2,Completed,Lose,2131.37879,2099.617017
+19,Indian Wells,BNP Paribas Open,3/15/2009,Masters 1000,Outdoor,Hard,2nd Round,3,Gicquel M.,2,52,2,0,Completed,Win,2085.07564,1603.171462
+19,Indian Wells,BNP Paribas Open,3/18/2009,Masters 1000,Outdoor,Hard,4th Round,3,Gonzalez F.,2,17,2,1,Completed,Win,2089.693471,1858.303332
+19,Indian Wells,BNP Paribas Open,3/21/2009,Masters 1000,Outdoor,Hard,Semifinals,3,Murray A.,4,2,2,1,Completed,Lose,2104.257665,2104.059465
+20,Miami,Sony Ericsson Open,3/27/2009,Masters 1000,Outdoor,Hard,2nd Round,3,Kim K.,2,107,2,0,Completed,Win,2088.068593,1397.304009
+20,Miami,Sony Ericsson Open,4/2/2009,Masters 1000,Outdoor,Hard,Quarterfinals,3,Roddick A.,2,6,2,1,Completed,Win,2095.389145,2020.504794
+20,Miami,Sony Ericsson Open,4/3/2009,Masters 1000,Outdoor,Hard,Semifinals,3,Djokovic N.,3,2,2,1,Completed,Lose,2021.033385,2107.99302
+23,Monte Carlo,Monte Carlo Masters,4/15/2009,Masters 1000,Outdoor,Clay,2nd Round,3,Seppi A.,2,40,2,0,Completed,Win,2088.069961,1638.471681
+23,Monte Carlo,Monte Carlo Masters,4/16/2009,Masters 1000,Outdoor,Clay,3rd Round,3,Wawrinka S.,16,2,2,0,Completed,Lose,1797.752718,2090.307033
+25,Rome,Internazionali BNL d'Italia,4/30/2009,Masters 1000,Outdoor,Clay,3rd Round,3,Stepanek R.,2,19,2,0,Completed,Win,2066.375936,1854.471591
+25,Rome,Internazionali BNL d'Italia,5/2/2009,Masters 1000,Outdoor,Clay,Semifinals,3,Djokovic N.,3,2,2,1,Completed,Lose,2062.685047,2076.277025
+29,Madrid,Mutua MadrileÃ±a Madrid Open,5/16/2009,Masters 1000,Outdoor,Clay,Semifinals,3,Del Potro J.M.,2,5,2,0,Completed,Win,2082.652723,1972.469729
+31,Paris,French Open,5/28/2009,Grand Slam,Outdoor,Clay,2nd Round,5,Acasuso J.,2,45,3,1,Completed,Win,2117.103667,1653.430528
+31,Paris,French Open,6/1/2009,Grand Slam,Outdoor,Clay,4th Round,5,Haas T.,2,63,3,2,Completed,Win,2121.435555,1745.704321
+31,Paris,French Open,6/7/2009,Grand Slam,Outdoor,Clay,The Final,5,Soderling R.,2,25,3,0,Completed,Win,2140.240974,1837.246967
+36,London,Wimbledon,6/24/2009,Grand Slam,Outdoor,Grass,2nd Round,5,Garcia-Lopez G.,2,42,3,0,Completed,Win,2145.772131,1683.685085
+36,London,Wimbledon,6/29/2009,Grand Slam,Outdoor,Grass,4th Round,5,Soderling R.,2,12,3,0,Completed,Win,2152.027669,1852.359865
+36,London,Wimbledon,7/3/2009,Grand Slam,Outdoor,Grass,Semifinals,5,Haas T.,2,34,3,0,Completed,Win,2159.770138,1888.2625
+36,London,Wimbledon,7/5/2009,Grand Slam,Outdoor,Grass,The Final,5,Roddick A.,2,6,3,2,Completed,Win,2165.313419,2032.374602
+46,Montreal,Rogers Masters,8/14/2009,Masters 1000,Outdoor,Hard,Quarterfinals,3,Tsonga J.W.,7,1,2,1,Completed,Lose,1852.546211,2179.307655
+47,Cincinnati,Western & Southern Financial Group Masters,8/20/2009,Masters 1000,Outdoor,Hard,3rd Round,3,Ferrer D.,1,19,2,1,Completed,Win,2152.920904,1819.350514
+47,Cincinnati,Western & Southern Financial Group Masters,8/22/2009,Masters 1000,Outdoor,Hard,Semifinals,3,Murray A.,1,2,2,0,Completed,Win,2161.971946,2143.238489
+49,New York,US Open,8/31/2009,Grand Slam,Outdoor,Hard,1st Round,5,Britton D.,1,1370,3,0,Completed,Win,2187.809592,1484.91985
+49,New York,US Open,9/2/2009,Grand Slam,Outdoor,Hard,2nd Round,5,Greul S.,1,65,3,0,Completed,Win,2188.359634,1537.007465
+49,New York,US Open,9/13/2009,Grand Slam,Outdoor,Hard,Semifinals,5,Djokovic N.,1,4,3,0,Completed,Win,2200.544823,2070.555079
+49,New York,US Open,9/14/2009,Grand Slam,Outdoor,Hard,The Final,5,Del Potro J.M.,6,1,3,2,Completed,Lose,2100.428789,2210.823094
+62,Basel,Davidoff Swiss Indoors,11/4/2009,ATP500,Indoor,Hard,2nd Round,3,Seppi A. ,1,51,2,0,Completed,Win,1516,1516
+62,Basel,Davidoff Swiss Indoors,11/6/2009,ATP500,Indoor,Hard,Quarterfinals,3,Korolev E. ,1,58,2,0,Completed,Win,1532,1532
+62,Basel,Davidoff Swiss Indoors,11/7/2009,ATP500,Indoor,Hard,Semifinals,3,Chiudinelli M. ,1,73,2,0,Completed,Win,1548,1548
+62,Basel,Davidoff Swiss Indoors,11/8/2009,ATP500,Indoor,Hard,The Final,3,Djokovic N. ,3,1,2,1,Completed,Lose,1564,1564
+64,Paris,BNP Paribas Masters,11/11/2009,Masters 1000,Indoor,Hard,2nd Round,3,Benneteau J.,49,1,2,1,Completed,Lose,1667.018945,2189.903697
+65,London,Masters Cup,11/22/2009,Masters Cup,Indoor,Hard,Round Robin,3,Verdasco F.,1,8,2,1,Completed,Win,2159.406981,1891.278818
+65,London,Masters Cup,11/24/2009,Masters Cup,Indoor,Hard,Round Robin,3,Murray A.,1,4,2,1,Completed,Win,2165.039987,2095.559134
+65,London,Masters Cup,11/26/2009,Masters Cup,Indoor,Hard,Round Robin,3,Del Potro J.M.,5,1,2,1,Completed,Lose,2043.831977,2177.88226
+65,London,Masters Cup,11/28/2009,Masters Cup,Indoor,Hard,Semifinals,3,Davydenko N.,7,1,2,1,Completed,Lose,1994.488425,2155.998135
+3,Doha,Qatar Exxon Mobil Open,1/6/2010,ATP250,Outdoor,Hard,2nd Round,3,Korolev E.,1,53,2,0,Completed,Win,2133.763599,1595.776458
+3,Doha,Qatar Exxon Mobil Open,1/7/2010,ATP250,Outdoor,Hard,Quarterfinals,3,Gulbis E.,1,90,2,1,Completed,Win,2135.147125,1648.699184
+3,Doha,Qatar Exxon Mobil Open,1/8/2010,ATP250,Outdoor,Hard,Semifinals,3,Davydenko N.,6,1,2,0,Completed,Lose,2044.044962,2136.981119
+6,Melbourne,Australian Open,1/21/2010,Grand Slam,Outdoor,Hard,2nd Round,5,Hanescu V.,1,47,3,0,Completed,Win,2118.228372,1622.907176
+6,Melbourne,Australian Open,1/31/2010,Grand Slam,Outdoor,Hard,The Final,5,Murray A.,1,4,3,0,Completed,Win,2149.734221,2124.345407
+19,Indian Wells,BNP Paribas Open,3/15/2010,Masters 1000,Outdoor,Hard,2nd Round,3,Hanescu V.,1,43,2,1,Completed,Win,2164.5671,1618.535142
+19,Indian Wells,BNP Paribas Open,3/17/2010,Masters 1000,Outdoor,Hard,3rd Round,3,Baghdatis M.,33,1,2,1,Completed,Lose,1818.908497,2165.890605
+20,Miami,Sony Ericsson Open,3/28/2010,Masters 1000,Outdoor,Hard,2nd Round,3,Lapentti N.,1,102,2,0,Completed,Win,2137.713878,1538.111686
+20,Miami,Sony Ericsson Open,3/29/2010,Masters 1000,Outdoor,Hard,3rd Round,3,Serra F.,1,61,2,0,Completed,Win,2138.696968,1660.936599
+20,Miami,Sony Ericsson Open,3/31/2010,Masters 1000,Outdoor,Hard,4th Round,3,Berdych T.,20,1,2,1,Completed,Lose,1805.299218,2140.619361
+25,Rome,Internazionali BNL d'Italia,4/27/2010,Masters 1000,Outdoor,Clay,2nd Round,3,Gulbis E.,40,1,2,1,Completed,Lose,1760.632942,2112.674467
+27,Estoril ,Estoril Open,5/5/2010,ATP250,Outdoor,Clay,2nd Round,3,Phau B.,1,138,2,0,Completed,Win,2084.400774,1520.985291
+27,Estoril ,Estoril Open,5/8/2010,ATP250,Outdoor,Clay,Semifinals,3,Montanes A.,34,1,2,0,Completed,Lose,1701.11561,2087.638124
+29,Madrid,Mutua MadrileÃ±a Madrid Open,5/11/2010,Masters 1000,Outdoor,Clay,2nd Round,3,Becker B.,1,46,2,0,Completed,Win,2058.759008,1617.654535
+29,Madrid,Mutua MadrileÃ±a Madrid Open,5/15/2010,Masters 1000,Outdoor,Clay,Semifinals,3,Ferrer D.,1,12,2,1,Completed,Win,2075.826261,1968.984681
+29,Madrid,Mutua MadrileÃ±a Madrid Open,5/16/2010,Masters 1000,Outdoor,Clay,The Final,3,Nadal R.,3,1,2,0,Completed,Lose,2126.754396,2087.055469
+31,Paris,French Open,5/26/2010,Grand Slam,Outdoor,Clay,2nd Round,5,Falla A.,1,70,3,0,Completed,Win,2073.626652,1548.004184
+31,Paris,French Open,6/1/2010,Grand Slam,Outdoor,Clay,Quarterfinals,5,Soderling R.,7,1,3,1,Completed,Lose,1917.201317,2083.641076
+32,Halle,Gerry Weber Open,6/12/2010,ATP250,Outdoor,Grass,Semifinals,3,Petzschner P.,2,41,2,0,Completed,Win,2068.733453,1717.446908
+32,Halle,Gerry Weber Open,6/13/2010,ATP250,Outdoor,Grass,The Final,3,Hewitt L.,32,2,2,1,Completed,Lose,1826.837976,2072.474093
+36,London,Wimbledon,6/21/2010,Grand Slam,Outdoor,Grass,1st Round,5,Falla A.,2,60,3,2,Completed,Win,2046.733443,1588.629125
+36,London,Wimbledon,6/23/2010,Grand Slam,Outdoor,Grass,2nd Round,5,Bozoljac I.,2,152,3,1,Completed,Win,2048.870756,1486.774577
+36,London,Wimbledon,6/28/2010,Grand Slam,Outdoor,Grass,4th Round,5,Melzer J.,2,16,3,0,Completed,Win,2052.265024,1863.294277
+36,London,Wimbledon,6/30/2010,Grand Slam,Outdoor,Grass,Quarterfinals,5,Berdych T.,13,2,3,1,Completed,Lose,1903.279293,2060.330054
+46,Toronto,Rogers Masters,8/10/2010,Masters 1000,Outdoor,Hard,2nd Round,3,Chela J.I.,3,50,2,0,Completed,Win,2037.553015,1659.744719
+46,Toronto,Rogers Masters,8/15/2010,Masters 1000,Outdoor,Hard,Semifinals,3,Djokovic N.,3,2,2,1,Completed,Win,2056.361813,1986.442681
+46,Toronto,Rogers Masters,8/15/2010,Masters 1000,Outdoor,Hard,The Final,3,Murray A.,4,3,2,0,Completed,Lose,2020.476295,2069.184693
+47,Cincinnati,Western & Southern Financial Group Masters,8/19/2010,Masters 1000,Outdoor,Hard,3rd Round,3,Kohlschreiber P.,2,33,,,Walkover,Win,2053.634474,1785.215149
+47,Cincinnati,Western & Southern Financial Group Masters,8/22/2010,Masters 1000,Outdoor,Hard,Semifinals,3,Baghdatis M.,2,20,2,0,Completed,Win,2068.011791,1809.824335
+49,New York,US Open,9/2/2010,Grand Slam,Outdoor,Hard,2nd Round,5,Beck A.,2,104,3,0,Completed,Win,2084.45319,1535.29055
+49,New York,US Open,9/9/2010,Grand Slam,Outdoor,Hard,Quarterfinals,5,Soderling R.,2,5,3,0,Completed,Win,2092.988924,1969.74193
+49,New York,US Open,9/11/2010,Grand Slam,Outdoor,Hard,Semifinals,5,Djokovic N.,3,2,3,2,Completed,Lose,2011.57578,2103.539857
+56,Shanghai,Shanghai Masters,10/16/2010,Masters 1000,Outdoor,Hard,Semifinals,3,Djokovic N.,3,2,2,0,Completed,Win,2101.423437,2074.079555
+56,Shanghai,Shanghai Masters,10/17/2010,Masters 1000,Outdoor,Hard,The Final,3,Murray A.,4,3,2,0,Completed,Lose,2012.566756,2116.166798
+58,Stockholm,Stockholm Open,10/22/2010,ATP250,Indoor,Hard,Quarterfinals,3,Wawrinka S.,2,21,2,1,Completed,Win,2097.242775,1873.125783
+58,Stockholm,Stockholm Open,10/23/2010,ATP250,Indoor,Hard,Semifinals,3,Ljubicic I.,2,17,2,0,Completed,Win,2104.149409,1780.215063
+62,Basel,Swiss Indoors,11/1/2010,ATP500,Indoor,Hard,1st Round,3,Dolgopolov O.,2,48,1,0,Retired,Win,2111.120168,1655.944437
+62,Basel,Swiss Indoors,11/5/2010,ATP500,Indoor,Hard,Quarterfinals,3,Stepanek R.,2,38,2,0,Completed,Win,2115.820069,1739.359538
+62,Basel,Swiss Indoors,11/7/2010,ATP500,Indoor,Hard,The Final,3,Djokovic N.,2,3,2,1,Completed,Win,2127.160484,2075.018868
+64,Paris,BNP Paribas Masters,11/11/2010,Masters 1000,Indoor,Hard,3rd Round,3,Stepanek R.,2,41,2,0,Completed,Win,2144.207646,1760.130626
+64,Paris,BNP Paribas Masters,11/13/2010,Masters 1000,Indoor,Hard,Semifinals,3,Monfils G.,14,2,2,1,Completed,Lose,1918.555994,2152.700928
+65,London,Masters Cup,11/21/2010,Masters Cup,Indoor,Hard,Round Robin,3,Ferrer D.,2,7,2,0,Completed,Win,2127.300053,1944.202123
+65,London,Masters Cup,11/23/2010,Masters Cup,Indoor,Hard,Round Robin,3,Murray A.,2,5,2,0,Completed,Win,2135.570722,2021.251821
+65,London,Masters Cup,11/25/2010,Masters Cup,Indoor,Hard,Round Robin,3,Soderling R.,2,4,2,0,Completed,Win,2146.48825,1993.509205
+65,London,Masters Cup,11/27/2010,Masters Cup,Indoor,Hard,Semifinals,3,Djokovic N.,2,3,2,0,Completed,Win,2155.86584,2041.381559
